@@ -1,0 +1,18 @@
+# general
+seed: 21
+workers: 8
+
+# train options
+start_epoch: 0
+epochs: 600
+
+# model options
+feature_dim: 128
+model_path: "save/model"
+reload: False
+
+# loss options
+learning_rate: 0.0003
+weight_decay: 0.
+instance_temperature: 0.5
+cluster_temperature: 1.0
