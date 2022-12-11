@@ -11,7 +11,7 @@ Subtype-DCC is a decoupled contrastive clustering method based on multi-omics da
 ```bash
 
 # create an environment for running
-conda create -n subtype-dcc python=3.8
+conda create -n subtype-dcc python=3.10
 conda activate subtype-dcc
 
 # install proper version pytorch
