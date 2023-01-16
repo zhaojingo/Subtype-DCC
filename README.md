@@ -25,7 +25,7 @@ git clone https://github.com/zhaojingo/Subtype-DCC.git
 
 ```
 ## Data
-
+The datasets used in this study are available at:  https://github.com/haiyang1986/Subtype-GAN
 
 ## Quick start
 
